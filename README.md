@@ -1,5 +1,5 @@
 Hi there 👋
-🏢 I’m currently working in Value Point Systems as Cloud Associate and DevOps Engineer
+🏢 I’m currently working in Diligent as Associate Solution Developer.
 
 🏢 I completed internship in Artenal and Cloud Enabled Company as AWS Cloud and DevOps Engineer
 
